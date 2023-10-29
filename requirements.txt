@@ -1,0 +1,10 @@
+hyperopt
+matplotlib
+nltk
+numpy
+pandas
+sentence-transformers
+scikit-learn
+xgboost
+fastapi
+uvicorn
